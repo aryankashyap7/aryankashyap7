@@ -1,9 +1,10 @@
-<h1 align="center">  Hey there <img src="./assets/wave.gif" width="30px"> , I'm </h1>
+<h1 align="center">  Hey there, I'm </h1>
+<!-- <h1 align="center">  Hey there <img src="./assets/wave.gif" width="30px"> , I'm </h1> -->
 <p align="center"><img  src="./assets/name.svg"></p>
 
 ---
 
-<h3 align="center"><b>Sophomore CS Undergrad | Developer | Competitive Programmer</b> </h3>
+<h3 align="center"><b>Junior CS Undergrad | Developer | Competitive Programmer</b> </h3>
 <p align="center">
 <p align='center'>I am a Undergraduate student in VIT Bhopal &#127891; studying &#10002; Artificial Intelligence.
 I am a versatile person who loves to learn about all new technologies and make my hands dirty on them. I am a Competitive Coder, Open Source Enthusiast and full-time adventure seeker. Thanks for visiting and I'd love to <a href='https://www.linkedin.com/in/aryankashyap/'>connect</a>!</p>
