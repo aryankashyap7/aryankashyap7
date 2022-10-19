@@ -34,8 +34,8 @@ I am a versatile person who loves to learn about all new technologies and make m
 <img src="https://activity-graph.herokuapp.com/graph?username=aryankashyap7&theme=radical&bg_color=00000000&point=00000000&line=ff3333&hide_border=true&custom_title=Keep+Exploring,+Learning+and+Contributing+away...&color=CACACA&area=true&area_color=ff3333">
 </div>
 <div align="center">
-<img width="370px" src="https://github-readme-stats.vercel.app/api?username=aryankashyap7&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=ff3333&icon_color=ff3333&bg_color=0D111700&text_color=CACACA&custom_title=Aryan's+Github Stats" alt="Aryan's Github stats" />
-<img width="370px" src="https://github-readme-streak-stats.herokuapp.com?user=aryankashyap7&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D111700&ring=FF3333&fire=FFFFFF&currStreakLabel=FF3333&sideLabels=FF3333&dates=CACACA" alt="aryankashyap7" />
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=aryankashyap7&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=ff3333&icon_color=ff3333&bg_color=0D111700&text_color=AEB2B8&custom_title=Aryan's+Github Stats" alt="Aryan's Github stats" width="400px"></a>
+<img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=aryankashyap7&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D111700&ring=FF3333&fire=FFFFFF&currStreakLabel=FF3333&sideLabels=FF3333&dates=CACACAtext_color=AEB2B8" alt="aryankashyap7" />
 </div>
 
 <!-- LANGUAGES USED -->
