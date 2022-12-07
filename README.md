@@ -31,7 +31,7 @@ I am a versatile person who loves to learn about all new technologies and make m
 - ⚡ Fun fact : I love networking and meeting new people !
 
 <div>
-<img src="https://activity-graph.herokuapp.com/graph?username=aryankashyap7&theme=radical&bg_color=00000000&point=00000000&line=ff3333&hide_border=true&custom_title=Keep+Exploring,+Learning+and+Contributing+away...&color=CACACA&area=true&area_color=ff3333">
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=aryankashyap7&theme=xcode&bg_color=00000000&line=ff3333&custom_title=Keep%20Exploring,%20Learning%20and%20Contributing%20away...&color=CACACA&area=true&area_color=ff3333&hide_border=true">
 </div>
 <p align="center">
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=aryankashyap7&count_private=true&&title_color=ff3333&icon_color=ff3333&show_icons=true&theme=dark&bg_color=0D111700&text_color=CACACA" width="400"></a> 
