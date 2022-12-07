@@ -14,7 +14,7 @@ I am a versatile person who loves to learn about all new technologies and make m
 <a href="https://www.linkedin.com/in/aryankashyap/"><img src="https://img.shields.io/badge/-aryankashyap-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aryankashyap/" alt='Linkedin Badge'></a>
 <a href="mailto:aryankashyapvit@gmail.com"><img src="https://img.shields.io/badge/-aryankashyapvit-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:aryankashyapvit@gmail.com" alt='Gmail Badge'></a>
 <a href="https://medium.com/@aryankashyap7"><img src="https://img.shields.io/badge/-@aryankashyap7-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@aryankashyap" alt='Medium Badge'></a>
-<a href="https://github.com/aryankashyap7"><img src="https://img.shields.io/badge/-AK.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://github.com/aryankashyap7" alt='Portfolio Badge'></a>
+<a href="http://aryankashyap7.github.io/"><img src="https://img.shields.io/badge/-AK.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=http://aryankashyap7.github.io/" alt='Portfolio Badge'></a>
 <a href="https://twitter.com/aryankashyap_tw"><img src="https://img.shields.io/badge/-@aryankashyap__tw-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aryankashyap_tw" alt='Twitter Badge'></a>
 <a href="https://instagram.com/acekaizen/"><img src="https://img.shields.io/badge/-@acekaizen-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/acekaizen/" alt='LinkedIn'></a>
 </p>
