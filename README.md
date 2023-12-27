@@ -33,8 +33,15 @@ I am a versatile person who loves to learn about all new technologies and make m
 ![Aryan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aryankashyap7&bg_color=1A1A1A&color=CACACA&line=ff3333&point=ff3333&area=true&area_color=ff3333&hide_border=true&custom_title=Keep%20Exploring,%20Learning%20and%20Contributing%20away...)
 
 <p align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=aryankashyap7&count_private=true&title_color=FF5733&icon_color=FF5733&show_icons=true&theme=dark&bg_color=1A1A1A&text_color=CACACA" width="400"></a> 
-  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aryankashyap7&count_private=true&show_icons=true&theme=dark&background=1A1A1A&ring=FF5733&fire=FF5733&currStreakLabel=FF5733&sideLabels=FF5733&dates=CACACA&stroke=FF5733&currStreakNum=FF5733&sideNums=FF5733&excludeDaysLabel=FF5733&date_format=&locale=en&type=svg&mode=daily&hide_border=true" width="400"></a>
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryankashyap7&count_private=true&title_color=FF5733&icon_color=FF5733&show_icons=true&theme=dark&bg_color=1A1A1A&text_color=CACACA&hide_border=true" width="400" height="200">
+</a>
+<a href="#">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryankashyap7&count_private=true&show_icons=true&theme=dark&background=1A1A1A&ring=FF5733&fire=CACACA&currStreakLabel=FF5733&sideLabels=FF5733&dates=CACACA&stroke=CACACA&currStreakNum=CACACA&sideNums=CACACA&excludeDaysLabel=FF5733&exclude_days=Sun&date_format=&locale=en&type=svg&mode=daily&hide_border=true" width="400" height="200">
+</a>
+
+
+
 </p>
 
 
